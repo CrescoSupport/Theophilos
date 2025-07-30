@@ -1,7 +1,7 @@
 {
   "name": "Theology Lectures",
   "short_name": "Lectures",
-  "start_url": "/index.html",
+  "start_url": "/Theophilos/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
